@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React strap demo app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Added [ReactStrap]https://github.com/reactstrap/reactstrap.
+- Added optional dependencies react-transition-group react-popper and popperJS
+- Modified demo page
+- Added Navigation demo component
 
 ## Available Scripts
 
